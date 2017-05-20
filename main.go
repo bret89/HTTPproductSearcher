@@ -1,4 +1,4 @@
-package HTTPproductSearcher
+package main
 
 func main() {
 
